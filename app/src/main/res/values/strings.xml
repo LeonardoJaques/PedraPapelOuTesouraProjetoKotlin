@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pedra papel ou tesoura projeto Kotlin</string>
+    <string name="app_choose">Escolha do App</string>
+    <string name="app_win">Você perdeu</string>
+    <string name="you_choose">Escolha uma opção abaixo!</string>
+    <string name="you_win">Você ganhou!</string>
+</resources>
